@@ -8,9 +8,10 @@ Passionate about crafting visually appealing and highly functional websites, I s
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-bootstrap javascript Html,Css
-
-alihuzaifa
+Html
+Css
+Javascript
+Bootstrap
 <!---
 Arsh12259/Arsh12259 is a ✨ special ✨ repository because its `README.md` (this ![360_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J](https://github.com/user-attachments/assets/21785c61-550d-4b55-abc4-eb2960aefcba)
 file) appears on your GitHub profile.
